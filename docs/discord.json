@@ -1,3 +1,16 @@
 {
-  "allCategory": []
+  "basic": {
+    "ping": {
+      "name": "ping",
+      "aliases": ["latency", "lat"],
+      "description": "Hiển thị độ trễ của bot (ms)",
+      "basic": "Hiển thị độ trễ của bot khi gửi tin nhắn hoặc nhận yêu cầu từ phía người dùng. Độ trễ càng cao thì bot phản hồi và nhận yêu cầu càng chậm."
+    },
+    "help": {
+      "name": "help",
+      "aliases": ["giup"],
+      "description": "Lệnh trợ giúp",
+      "basic": "Vãi cả trợ giúp lệnh trợ giúp, WTF?"
+    }
+  }
 }
